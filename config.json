@@ -11,8 +11,8 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
-                        "flow": "xtls-rprx-direct"
+                        "id": "91bde480-f58d-44d8-ae04-62279160c5e8", 🔄  ❓
+                        "flow": "xtls-rprx-direct"🔄  ❓ 
                     }
                 ],
                 "decryption": "none",
@@ -29,7 +29,7 @@
                         "dest": 3003
                     },
                     {
-                        "path": "/trojan",
+                        "path": "/trojan", 
                         "dest": 3004
                     },
                     {
@@ -49,7 +49,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "id": "91bde480-f58d-44d8-ae04-62279160c5e8"🔄  ❓ 
                     }
                 ],
                 "decryption": "none"
@@ -66,7 +66,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
+                        "id": "91bde480-f58d-44d8-ae04-62279160c5e8", 
                         "level": 0
                     }
                 ],
@@ -96,7 +96,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
+                        "id": "91bde480-f58d-44d8-ae04-62279160c5e8", 
                         "alterId": 0
                     }
                 ]
@@ -124,7 +124,7 @@
             "settings": {
                 "clients": [
                     {
-                        "password": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "password": "91bde480-f58d-44d8-ae04-62279160c5e8" 
                     }
                 ]
             },
@@ -152,8 +152,8 @@
             "settings": {
                 "clients": [
                     {
-                        "method": "chacha20-ietf-poly1305",
-                        "password": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "method": "chacha20-ietf-poly1305", 
+                        "password": "91bde480-f58d-44d8-ae04-62279160c5e8" 
                     }
                 ],
                 "decryption": "none"
